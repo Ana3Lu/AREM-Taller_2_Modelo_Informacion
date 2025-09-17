@@ -65,9 +65,9 @@ La tabla para ERD aplicado a Zajana SAS es la siguiente:
 | Cliente        | Entidad | Persona o empresa que solicita servicios y genera operaciones dentro de Zajana. | Cliente |
 | Usuario        | Entidad | Persona asociada a un cliente, con credenciales para acceder al sistema. | Cliente |
 | Contrato        | Entidad | Define el acuerdo formal entre Zajana y el cliente. | Zajana |
-| Factura        | Entidad | Documento financiero asociado a las consultas realizadas. | Zajana |
 | Consulta        | Entidad | Registro de las solicitudes hechas por el cliente (ej. score, validación, verificación). | Cliente/Zajana |
-| Fuente de datos        | Entidad | Sistemas externos que proveen información para las consultas (registros y bases de datos). | Externo |
+| Factura        | Entidad | Documento financiero asociado a las consultas realizadas. | Zajana |
+| Fuente        | Entidad | Sistemas externos que proveen información para las consultas (registros y bases de datos). | Externo |
 | Resultado        | Entidad | Resultado de la consulta (score, reporte, verificación). | Zajana |
 
 La tabla para C1 aplicado a Zajana SAS es la siguiente:
