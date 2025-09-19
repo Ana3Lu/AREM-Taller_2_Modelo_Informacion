@@ -88,14 +88,19 @@ La tabla para C1 aplicado a Zajana SAS es la siguiente:
 
 ## 🔍 Investigación complementaria
 ### Tema investigado:
-(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
+ERD y casos en la industria
 
 ### Resumen:
-Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
+Un Diagrama Entidad–Relación (ERD) es una herramienta para modelar la estructura de datos de un sistema de información, representando las entidades principales, sus atributos y las relaciones entre ellas. En la industria, estos diagramas sirven para visualizar y organizar la información crítica que después será implementada en bases de datos o sistemas empresariales. De acuerdo con [1], los ERD permiten no solo documentar el flujo de información, sino también alinear equipos de trabajo en torno a un mismo modelo de datos, lo que facilita la toma de decisiones y la construcción de soluciones tecnológicas.
+
+Entonces, el uso de modelos de datos unificados en telecomunicaciones muestra cómo los ERD sirven como base para la integración de procesos. Por ejemplo, en casos reales expuestos por [2], empresas de sectores como retail y manufactura lograron optimizar sus operaciones gracias a la implementación de ERP que integraban módulos de ventas, compras y finanzas sobre un mismo modelo de datos. Igualmente, [3] presenta cómo la industria de telecomunicaciones utiliza esquemas de datos estandarizados para gestionar clientes, suscripciones y transacciones. Estos ejemplos reflejan cómo diferentes sectores recurren a la estructuración de entidades y relaciones para lograr interoperabilidad, trazabilidad y consistencia en la información.
+
+Todo esto se aplica en el taller, ya que en el caso Clínica Salud Viva se da la identificación de relaciones y entidades como: Paciente, Cita, Médico, Especialidad y Factura, permitiendo que el sistema clínico se organice de forma coherente con los flujos de información internos y externos (aseguradoras, ERP, notificador). Así como en la industria retail o telecomunicaciones, el objetivo es asegurar que la información fluya de manera consistente entre actores y sistemas, logrando una arquitectura alineada con las necesidades clínicas, administrativas y regulatorias del sector salud. De la misma manera, se puede aplicar al caso de Zajana, una empresa de tecnología, al igual que el ejemplo de las telecomunicaciones.
 
 ## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
+- [1] Lucidchart. *¿Qué es un diagrama entidad-relación (ERD)?*. (s.f.). https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+- [2] Impacto TIC. *Ejemplos de ERP: decisiones empresariales con casos reales*. (2021, 28 de septiembre). https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+- [3] Adobe. *Esquema de telecomunicaciones en XDM*. (s.f.). https://experienceleague.adobe.com/es/docs/experience-platform/xdm/schema/industries/telecom
 
 ---
 
