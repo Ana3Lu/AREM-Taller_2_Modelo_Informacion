@@ -46,9 +46,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Mariana Salas Gutiérrez y Ana Lucía Quintero Vargas | 16/08 |
-| Redacción del informe     | Mariana Salas Gutiérrez y Ana Lucía Quintero Vargas | 19/08 |
-| Investigación y referencias | Juan David Cetina Gómez | 21/08 |
+| Modelado final en draw.io | Mariana Salas Gutiérrez y Ana Lucía Quintero Vargas | 06/09 |
+| Redacción del informe     | Mariana Salas Gutiérrez y Ana Lucía Quintero Vargas | 07/09 |
+| Investigación y referencias | Juan David Cetina Gómez | 9/08 |
 
 ---
 
