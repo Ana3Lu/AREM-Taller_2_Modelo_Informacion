@@ -3,16 +3,15 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+_Taller 2 - ERD_
 
 ---
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+* [1] Lucidchart. ¿Qué es un diagrama entidad-relación (ERD)?. (s.f.). https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+* [2] Impacto TIC. Ejemplos de ERP: decisiones empresariales con casos reales. (2021, 28 de septiembre). https://www.lucidchart.com/pages/es/que-es-un-diagrama-entidad-relacion
+* [3] Adobe. Esquema de telecomunicaciones en XDM. (s.f.). https://experienceleague.adobe.com/es/docs/experience-platform/xdm/schema/industries/telecom
 
 ---
 
